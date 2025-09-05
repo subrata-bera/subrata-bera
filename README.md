@@ -1,11 +1,8 @@
 👋 Hi, I’m Subrata Bera
 
-👨‍💻 Full Stack Web Developer passionate about building modern, scalable, and user-friendly applications
+💻 Full Stack Web Developer passionate about creating modern, scalable, and user-friendly applications.
+I love solving real-world problems with clean code, efficient backends, and sleek frontends.
 
-🔧 Tech Stack: C#, ASP.NET Core, MSSQL, JavaScript, HTML, CSS, Bootstrap
+🚀 Tech Stack
 
-💬 Open to collaborate on full stack web apps, .NET projects, and tech-focused learning initiatives
-
-📫 Reach me at: subratabera467@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I probably debug more than I sleep—good news is, the bugs are starting to fear me 🐞💻😎
+<p align="left"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
