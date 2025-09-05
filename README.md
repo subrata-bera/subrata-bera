@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @subrata-bera  
-- 👨‍💻 I’m a Full Stack Web Developer  
-- 🌱 I’m currently learning ASP.NET Framework and .NET Core MVC  
-- 🔧 I work with C#, MSSQL, and JavaScript, and I love building backend systems. I’m also skilled in frontend technologies like HTML, CSS, JavaScript, and Bootstrap  
-- 💼 Projects I’m working on: StayFinder (A PG/Mess/Flat finder system)
-- 💬 I’m looking to collaborate on full stack web apps, .NET projects, and anything tech + learning focused  
-- 📫 How to reach me: subratabera467@gmail.com  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I debug more than I sleep—but hey, at least the bugs fear me now 🐞💻😎  
+👋 Hi, I’m Subrata Bera (@subrata-bera)
+
+👨‍💻 Full Stack Web Developer passionate about building modern, scalable, and user-friendly applications
+
+🔧 Tech Stack: C#, ASP.NET Core, MSSQL, JavaScript, HTML, CSS, Bootstrap
+
+💬 Open to collaborate on full stack web apps, .NET projects, and tech-focused learning initiatives
+
+📫 Reach me at: subratabera467@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I probably debug more than I sleep—good news is, the bugs are starting to fear me 🐞💻😎
