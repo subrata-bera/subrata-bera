@@ -35,17 +35,17 @@ I love solving real-world problems with **clean code**, **efficient backends**, 
 
 ## 💡 Interests  
 
-- 🌐 Exploring the **.NET ecosystem & cloud integrations**  
-- 📈 Learning about **scalable software architecture**  
-- 🤝 Open to collaborating on **.NET and full stack projects**  
+ 🌐 Exploring the **.NET ecosystem & cloud integrations**  
+ 📈 Learning about **scalable software architecture**  
+ 🤝 Open to collaborating on **.NET and full stack projects**  
 
 ---
 
 ## 📫 Let’s Connect  
 
-- 📩 **Email:** subratabera467@gmail.com  
-- 💼 **LinkedIn:** *(add link)*  
-- 🖥️ **Portfolio/GitHub:** *(add link)*  
+ 📩 **Email:** subratabera467@gmail.com  
+ 💼 **LinkedIn:** https://www.linkedin.com/in/mr-subratabera/  
+ 🖥️ **Portfolio** https://subratabera.netlify.app/  
 
 ---
 
