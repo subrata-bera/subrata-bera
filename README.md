@@ -44,8 +44,8 @@ I love solving real-world problems with **clean code**, **efficient backends**, 
 ## 📫 Let’s Connect  
 
  📩 **Email:** subratabera467@gmail.com  
- 💼 **LinkedIn:** https://www.linkedin.com/in/mr-subratabera/  
- 🖥️ **Portfolio** https://subratabera.netlify.app/  
+ 💼 **LinkedIn:** https://www.linkedin.com/in/mr-subratabera
+ 🖥️ **Portfolio** https://subratabera.netlify.app
 
 ---
 
