@@ -10,8 +10,8 @@ I love solving real-world problems with **clean code**, **efficient backends**, 
 <p align="left">  
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />  
+    <img src="https://img.shields.io/badge/Web%20API-009688?style=for-the-badge&logo=dotnet&logoColor=white" />  
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Web%20API-009688?style=for-the-badge&logo=dotnet&logoColor=white" />  
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />  
   <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />  
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />  
