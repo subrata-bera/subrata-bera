@@ -26,10 +26,10 @@ I love solving real-world problems with **clean code**, **efficient backends**, 
 
 ## 🛠️ What I Do  
 
-- 🏗️ Build **end-to-end full stack web applications**  
-- 🔙 Develop **robust backend systems** with .NET & MSSQL  
-- 🎨 Design **modern, responsive UIs** using Bootstrap & CSS  
-- ⚡ Optimize & debug apps for **better performance and scalability**  
+ 🏗️ Build **end-to-end full stack web applications**  
+ 🔙 Develop **robust backend systems** with .NET & MSSQL  
+ 🎨 Design **modern, responsive UIs** using Bootstrap & CSS  
+ ⚡ Optimize & debug apps for **better performance and scalability**  
 
 ---
 
